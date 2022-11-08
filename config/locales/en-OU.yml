@@ -37,17 +37,17 @@ en-OU:
     status_count_before: Who said
     tagline: Chatting with pals, writing with a lipogrammatic constraint
     terms: Our ToS
-    unavailable_content: Unavailable content
+    unavailable_content: Out-of-grasp stuff
     unavailable_content_description:
-      domain: Server
-      reason: Reason
-      rejecting_media: 'Media files from these servers will not be processed or stored, and no thumbnails will be displayed, requiring manual click-through to the original file:'
-      rejecting_media_title: Filtered media
-      silenced: 'Posts from these servers will be hidden in public timelines and conversations, and no notifications will be generated from their users'' interactions, unless you are following them:'
-      silenced_title: Silenced servers
-      suspended: 'No data from these servers will be processed, stored or exchanged, making any interaction or communication with users from these servers impossible:'
-      suspended_title: Suspended servers
-    unavailable_content_html: Mastodon generally allows you to view content from and interact with users from any other server in the fediverse. These are the exceptions that have been made on this particular server.
+      domain: Domain
+      reason: Why
+      rejecting_media: 'This instantiation will not work with or hold pictorial stuff from yon domain, nor display thumbnails of it; you must manually click through to its original location:'
+      rejecting_media_title: Photos that did not pass sifting
+      silenced: 'Posts from yon domains will not show in public activity and discussions, and no notifications will occur from to-and-fro with folks on such domains (only folks you follow)'
+      silenced_title: Domains on hush curb
+      suspended: 'This instantiation will not work with, hold or transmit data from yon domains, totally curbing any to-and-fro or communication with folks from yon domains:'
+      suspended_title: Domains put on hiatus
+    unavailable_content_html: Mastodon usually allows you to obtain stuff from and hold to-and-fro with folks from any domain in all of ActivityPub-world. This is a list of domain blocks particular to this instantiation.
     user_count_after: Oulipians
     user_count_before: Host to
     what_is_mastodon: What is Mastodon?
